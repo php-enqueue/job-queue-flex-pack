@@ -1,0 +1,19 @@
+{
+  "name": "enqueue/job-queue-pack",
+  "description": "A pack to install Enqueue's job queue with Doctrine as a storage in a Symfony Flex application",
+  "type": "symfony-pack",
+  "license": "MIT",
+  "keywords": ["job", "queue", "enqueue", "doctrine"],
+  "homepage": "https://github.com/php-enqueue/enqueue-dev",
+  "authors": [
+    {
+      "name": "Maksym Kotliar",
+      "email": "kotlyar.maksim@gmail.com"
+    }
+  ],
+  "require": {
+    "enqueue/enqueue-bundle": "^0.8",
+    "doctrine/doctrine-bundle": "^1.4",
+    "enqueue/job-queue": "^0.8"
+  }
+}
