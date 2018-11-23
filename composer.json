@@ -12,8 +12,8 @@
     }
   ],
   "require": {
-    "enqueue/enqueue-bundle": "^0.8",
+    "enqueue/enqueue-bundle": "0.9.x-dev",
     "doctrine/doctrine-bundle": "^1.4",
-    "enqueue/job-queue": "^0.8"
+    "enqueue/job-queue": "0.9.x-dev"
   }
 }
